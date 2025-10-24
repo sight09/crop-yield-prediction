@@ -22,4 +22,4 @@ This project supports sustainability by improving food production planning.
 ---
 
 **Author:** Amanuel Alemu Zewdu  
-**GitHub:** [Your GitHub username](https://github.com/YOUR-USERNAME)
+**GitHub:** [Your GitHub username](https://github.com/sight09)
